@@ -1,6 +1,6 @@
 ## Discontinued !!!
 
-This user group has been disbanned. The content will stay on GitHub for reference purposes. Users are encouraged to join the Baton Rouge User Group Discord ( https://discord.com/invite/CXhg7XV) or Slack (https://join.slack.com/t/brusergroups/shared_invite/zt-39dtce6qo-O6~WwrCGITKw0MzWCpY91A) to keep in touch with the local community.
+This user group has been disbanded. The content will stay on GitHub for reference purposes. Users are encouraged to join the Baton Rouge User Group Discord ( https://discord.com/invite/CXhg7XV) or Slack (https://join.slack.com/t/brusergroups/shared_invite/zt-39dtce6qo-O6~WwrCGITKw0MzWCpY91A) to keep in touch with the local community.
 
 ## Houma-Thibodaux .NET User Group
 
